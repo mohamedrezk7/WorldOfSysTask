@@ -48,9 +48,10 @@ git clone https://github.com/mohamedrezk7/WorldOfSysTask
 
 # 6- Run Project Via Maven
 - mvn clean install
-
+# Run all tests 
 - mvn clean test
-
+- # Run smoke tests
+- mvn test -Psmoke
 # 7 Reports 
 
 Will Find reports at - target/surefire-reports/index.html
