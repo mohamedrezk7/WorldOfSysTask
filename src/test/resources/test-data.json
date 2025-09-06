@@ -1,0 +1,29 @@
+{
+  "login-credential": {
+    "Username": "Admin",
+    "Password": "admin123"
+  },
+  "employeeInfo": {
+    "firstname": "mohamed",
+    "lastname": "Rezq"
+  },
+  "vacancy-info": {
+    "name": "new vacancy",
+    "job-title": "Chief Executive Officer",
+    "hiring-manager": "T",
+    "hiring-manager-option": "Ti"
+  },
+  "candidates-info": {
+    "first-name": "mohamed",
+    "last-name": "rezk",
+    "email": "moahmedrezk@gmail.com"
+  },
+  "user-info": {
+    "user-role": "Admin",
+    "employee-name": "r",
+    "status": "Enabled",
+    "user-name": "mohamedRezq",
+    "password": "password123"
+  }
+
+}
