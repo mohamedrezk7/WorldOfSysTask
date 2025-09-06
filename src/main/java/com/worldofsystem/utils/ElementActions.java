@@ -114,7 +114,7 @@ public class ElementActions {
         List<WebElement> options = wait.until(ExpectedConditions
                 .visibilityOfAllElementsLocatedBy(selectedOption));
         Thread.sleep(2000);
-        options.getFirst().click();
+        options.get(0).click();
 
 //        for (WebElement option : options) {
 //            if (option.getText().equalsIgnoreCase(targetManager)) {
